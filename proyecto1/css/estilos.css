@@ -2,6 +2,16 @@ body
 {
     text-align: center; 
     font-family: "Arial";
-    color: darkred;
-
+    color:darkslategray;
+    font-size: 16px;
+    margin: 0;
+    padding:0;
+}
+#container
+{
+    width: 70%; /* este es el ancho del container*/
+    padding: 1em; /* ancho de los vordes */
+    text-align: left; /* texto alineado a la izquierda del container  */
+    border: 1px solid #ddd; /* le colocamos un vorde para poder verlo */
+    margin: 1% auto; /*esto es para que se centrara*/
 }
